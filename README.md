@@ -6,7 +6,7 @@ Disclaimer: This software is designed for educational purposes in the field of p
 
 > Click on any of the "View Details" column command buttons to open a details view of the target patient.
 
-> The minium and maximum delay (in milliseconds) is configurable via the application settings XML file.
+> The minimum and maximum delay (in milliseconds) is configurable via the application settings XML file.
 
 ---
 
